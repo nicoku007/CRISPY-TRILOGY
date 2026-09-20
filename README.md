@@ -1,10 +1,6 @@
- CRISPY-TRILOGY
- 
-======================================================================
-     CRISPY TRILOGY: Crispy-Heretic + Crispy-Hexen + Crispy-Strife
-======================================================================
+CRISPY TRILOGY: Crispy-Heretic + Crispy-Hexen + Crispy-Strife
 
- INTRODUCTION:
+INTRODUCTION:
 
 Crispy Trilogy is a launcher created using C# Windows Forms, designed 
 to unify the source ports Crispy Heretic, Crispy Hexen, and Crispy 
