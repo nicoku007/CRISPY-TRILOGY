@@ -1,4 +1,5 @@
 CRISPY TRILOGY: Crispy-Heretic + Crispy-Hexen + Crispy-Strife
+======================================================================
 
 INTRODUCTION:
 
@@ -27,6 +28,6 @@ the game WADs inside these subfolders. The main Crispy-Trilogy.exe
 file must sit right next to these folders to detect the games properly. 
 There is no need to move anything else.
 
-  CRISPY TRILOGY by "Nicokugame007"
-======================================================================
+CRISPY TRILOGY by "Nicokugame007"
+
 
