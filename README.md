@@ -1,6 +1,16 @@
 CRISPY TRILOGY: Crispy-Heretic + Crispy-Hexen + Crispy-Strife
 ======================================================================
 
+![crispy1.png](https://github.com/nicoku007/CRISPY-TRILOGY/blob/main/crispy1.png?raw=true )
+
+![crispy 2.png](https://github.com/nicoku007/CRISPY-TRILOGY/blob/main/crispy%202.png?raw=true )
+
+![crispy 3.png](https://github.com/nicoku007/CRISPY-TRILOGY/blob/main/crispy%203.png?raw=true )
+
+![crispy 4.png](https://github.com/nicoku007/CRISPY-TRILOGY/blob/main/crispy%204.png?raw=true )
+
+![crispy 5.png](https://github.com/nicoku007/CRISPY-TRILOGY/blob/main/crispy%205.png?raw=true )
+
 INTRODUCTION:
 
 Crispy Trilogy is a launcher created using C# Windows Forms, designed 
